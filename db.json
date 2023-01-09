@@ -1,0 +1,80 @@
+{
+  "CorneliaFunk": [
+    {
+      "id": 1,
+      "titulo": "Coração de Tinta",
+      "publicacao": 2006,
+      "editora": "Companhia das Letras"
+    },
+    {
+      "titulo": "O Senhor dos Ladrões",
+      "publicacao": 2004,
+      "editora": "Companhia das Letras",
+      "id": 2
+    },
+    {
+      "titulo": "O Cavaleiro do Dragão",
+      "publicacao": 2009,
+      "editora": "Companhia das Letras",
+      "id": 3
+    },
+    {
+      "titulo": "Sombras Vivas",
+      "publicacao": 2013,
+      "editora": "Companhia das Letras",
+      "id": 4
+    }
+  ],
+  "RobinCook": [
+    {
+      "id": 1,
+      "titulo": "Abduzidos",
+      "publicacao": 2001,
+      "editora": "Record"
+    },
+    {
+      "titulo": "Cego",
+      "publicacao": 1994,
+      "editora": "Record",
+      "id": 2
+    },
+    {
+      "titulo": "Sinais Vitais",
+      "publicacao": 1998,
+      "editora": "Record",
+      "id": 3
+    },
+    {
+      "titulo": "Cérebro",
+      "publicacao": 1981,
+      "editora": "Record",
+      "id": 4
+    }
+  ],
+  "MarceloRubensPaiva": [
+    {
+      "id": 1,
+      "titulo": "Feliz Ano Velho",
+      "publicacao": 1982,
+      "editora": "Alfaguara"
+    },
+    {
+      "titulo": "Blecaute",
+      "publicacao": 2007,
+      "editora": "Objetiva",
+      "id": 2
+    },
+    {
+      "titulo": "Bala da Agulha",
+      "publicacao": 2007,
+      "editora": "Objetiva",
+      "id": 3
+    },
+    {
+      "titulo": "As Fêmeas",
+      "publicacao": 2007,
+      "editora": "Objetiva",
+      "id": 4
+    }
+  ]
+}
